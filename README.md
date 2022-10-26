@@ -12,9 +12,9 @@ For example, if we send a message at 04:01:01 and another at 05:01:02. if the cu
 There will be two variants of this microservice. One that uses an embedded database another more optimal that uses only java collections.
 
 
-Those two variants can be exposed under different paths
+Those two variants can be exposed under different paths (Two controllers)
 
-We’re mostly interested in how the application is packaged, unit testing, and how spring/java/maven are used
+We’re mostly interested in how the application is packaged, unit tested, and how spring/java/maven are used
   
   
-  the project should be placed somewhre on github or gitlab
+The project should be placed somewhre on github or gitlab
