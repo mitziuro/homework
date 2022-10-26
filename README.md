@@ -2,6 +2,7 @@ Write a Spring microservice/project that exposes the following HTTP methods.
 
 
 PUT – no body it adds a message at the current timestamp
+
 GET (int hour) – the number of messages in the last hours (hour is the parameter) with a degree of error in seconds
 
 
