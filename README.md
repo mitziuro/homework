@@ -15,3 +15,6 @@ There will be two variants of this microservice. One that uses an embedded datab
 Those two variants can be exposed under different paths
 
 We’re mostly interested in how the application is packaged, unit testing, and how spring/java/maven are used
+  
+  
+  the project should be placed somewhre on github or gitlab
